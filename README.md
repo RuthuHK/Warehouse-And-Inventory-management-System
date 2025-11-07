@@ -49,7 +49,4 @@ It demonstrates real DBMS concepts—**tables**, **joins**, **aggregates**, **ne
 
 ---
 
-## 📸 Screenshots
-
-Add these after you run the app:
 
